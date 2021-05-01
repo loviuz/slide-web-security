@@ -1,0 +1,12 @@
+[23-Dec-2020 16:25:04 Europe/Rome] PHP Warning:  DOMDocument::loadXML(): ParsePI: PI php never end ... in file:///var/www/html/osm_master/config.inc.php, line: 47 in /var/www/html/web_security/xxe/readxml.php on line 6
+[23-Dec-2020 16:25:04 Europe/Rome] PHP Warning:  DOMDocument::loadXML(): Failure to process entity comando in Entity, line: 8 in /var/www/html/web_security/xxe/readxml.php on line 6
+[23-Dec-2020 16:25:04 Europe/Rome] PHP Warning:  DOMDocument::loadXML(): Entity 'comando' not defined in Entity, line: 8 in /var/www/html/web_security/xxe/readxml.php on line 6
+[23-Dec-2020 16:25:04 Europe/Rome] PHP Warning:  simplexml_import_dom(): Invalid Nodetype to import in /var/www/html/web_security/xxe/readxml.php on line 7
+[23-Dec-2020 16:25:04 Europe/Rome] PHP Notice:  Trying to get property 'nome' of non-object in /var/www/html/web_security/xxe/readxml.php on line 10
+[23-Dec-2020 16:25:04 Europe/Rome] PHP Notice:  Trying to get property 'cognome' of non-object in /var/www/html/web_security/xxe/readxml.php on line 12
+[23-Dec-2020 16:25:35 Europe/Rome] PHP Warning:  DOMDocument::loadXML(): ParsePI: PI php never end ... in file:///var/www/html/osm_master/config.inc.php, line: 47 in /var/www/html/web_security/xxe/readxml.php on line 6
+[23-Dec-2020 16:25:35 Europe/Rome] PHP Warning:  DOMDocument::loadXML(): Failure to process entity comando in Entity, line: 8 in /var/www/html/web_security/xxe/readxml.php on line 6
+[23-Dec-2020 16:25:35 Europe/Rome] PHP Warning:  DOMDocument::loadXML(): Entity 'comando' not defined in Entity, line: 8 in /var/www/html/web_security/xxe/readxml.php on line 6
+[23-Dec-2020 16:25:35 Europe/Rome] PHP Warning:  simplexml_import_dom(): Invalid Nodetype to import in /var/www/html/web_security/xxe/readxml.php on line 7
+[23-Dec-2020 16:25:35 Europe/Rome] PHP Notice:  Trying to get property 'nome' of non-object in /var/www/html/web_security/xxe/readxml.php on line 10
+[23-Dec-2020 16:25:35 Europe/Rome] PHP Notice:  Trying to get property 'cognome' of non-object in /var/www/html/web_security/xxe/readxml.php on line 12

